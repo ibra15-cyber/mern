@@ -1,0 +1,18 @@
+with maps
+
+using cda or the npm
+
+with cda you load the token and scripts in index
+then create a component and paste the code
+if you are going to refer to token in index using windows. the map defintiions
+or place the key in the file that you want to create the component
+
+
+or use the npm and install
+
+import the map
+create the map component
+include the token key in the component
+define your map the way you want it 
+then export
+call it where you need it;
